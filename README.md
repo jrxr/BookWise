@@ -21,8 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone 
-$ cd book-wise
+$ git clone https://github.com/jrxr/BookWise.git
+$ cd BookWise
 ```
 
 Para iniciá-lo, siga os passos abaixo:
